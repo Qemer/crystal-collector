@@ -1,0 +1,72 @@
+.collector {
+    background: rgb(112, 70, 209);
+    margin:30px;
+    height: 50px;
+    color:white;
+    width: 800px;
+    text-align:  center;
+    padding-bottom: 4px;
+}
+.text_,.randomScore {
+    background: rgb(112, 70, 209);
+    margin:30px;
+    height: 50px;
+    color:white;
+    width: 800px;
+    text-align:  center;
+    padding: 5px;
+}
+
+.randomScore {
+    background: rgb(112, 70, 209);
+    text-align: center;
+    font-size: 50px;
+    margin:30px;
+    height: 50px;
+    color:white;
+    width: 800px;
+    text-align:  center;
+    padding: 5px;
+}
+img {
+    background: rgb(194, 179, 230);
+    margin:30px;
+    height: 50px;
+    color:white;
+    width: 145px;
+    text-align:  center;
+    padding: 5px;
+}
+.totalScore {
+    background: rgb(112, 70, 209);
+    text-align: center;
+    font-size: 50px;
+    margin:30px;
+    height: 50px;
+    color:white;
+    width: 800px;
+    text-align:  center;
+    padding: 5px;
+}
+.wins,.losses{
+    background: rgb(112, 70, 209);
+    text-align: center;
+    font-size: 50px;
+    margin:30px;
+    height: 50px;
+    color:white;
+    width: 800px;
+    text-align:  center;
+    padding: 5px;
+}
+.result {
+    background: rgb(112, 70, 209);
+    text-align: center;
+    font-size: 20px;
+    margin:30px;
+    height: 50px;
+    color:white;
+    width: 800px;
+    text-align:  center;
+    
+}
